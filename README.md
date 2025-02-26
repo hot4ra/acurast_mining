@@ -82,7 +82,7 @@ ACURAST創建流程及錢包設定
 
    這時透過群控開起Acurast app並如以下影片掃描QR CODE
 
-
+   https://youtube.com/shorts/O7DMB5SOY10?si=Gg2MOR-5wS3Jp7aM
 
    安裝及同步完成後,回到網頁上,可以看一下是否已有手機的專屬地址
 
