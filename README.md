@@ -41,16 +41,8 @@ ACURAST創建流程及錢包設定
 
    ![圖片](https://github.com/user-attachments/assets/8187cb77-2b6d-4ad1-b12d-0fac7f10243f)
 
-
-
-
-   
-
-
-以下為新增流程,待更新,先不用操作,但可以自己試著摸摸看.
-
-
 4. 進入Acurast控制介面(也可直接連此網址: https://console.acurast.com/devices )
+   
 
    ![圖片](https://github.com/user-attachments/assets/6e699204-7573-41aa-8fc0-e3eb97f1e05a)
 
@@ -63,12 +55,20 @@ ACURAST創建流程及錢包設定
 
    ![圖片](https://github.com/user-attachments/assets/3cacf2eb-35ae-4249-9cc7-842dbaaed1f9)
 
+   領水(領取測試網的代幣當作手續費)
+
+   ![圖片](https://github.com/user-attachments/assets/eba285c9-35db-48de-8e5a-be26c5e27c26)
+
+   確定跳出的視窗裡,大框的地址是否和自己的一樣(原則上有顯示出來,就是你自己的地址,不用特別輸入)
+   點選Get tokens後回到Acurast 控制台,等待一下下就會看到有2個或4個cACU
+
+   ![圖片](https://github.com/user-attachments/assets/2e49a453-a358-4ff4-9b9f-4702ec42a794)
+
    開始創建
 
    ![圖片](https://github.com/user-attachments/assets/00f4a517-313f-4803-b6a2-3a5b152d8d4a)
 
-
-   Add New Device(新增一個裝置)
+6. Add New Device(新增一個裝置)
 
    ![圖片](https://github.com/user-attachments/assets/703112c1-ab95-46b3-81e8-0bd7c4672c8c)
 
@@ -81,8 +81,8 @@ ACURAST創建流程及錢包設定
    ![{3F51BFFF-9780-4AC6-B03D-3A42799F55D0}](https://github.com/user-attachments/assets/758bc4b4-59bc-406b-88e5-097e32438e4f)
 
    這時透過群控開起Acurast app並如以下影片掃描QR CODE
-
-[![IMAGE ALT TEXT]([https://www.youtube.com/shorts/O7DMB5SOY10)/0.jpg)](https://www.youtube.com/shorts/O7DMB5SOY10 "Unity Snake Game")
+   
+   https://www.youtube.com/shorts/O7DMB5SOY10   
 
    安裝及同步完成後,回到網頁上,可以看一下是否已有手機的專屬地址
 
