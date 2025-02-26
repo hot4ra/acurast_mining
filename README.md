@@ -82,7 +82,7 @@ ACURAST創建流程及錢包設定
 
    這時透過群控開起Acurast app並如以下影片掃描QR CODE
 
-<iframe width="692" height="1230" src="https://www.youtube.com/embed/O7DMB5SOY10" title="Acurast APP手機設定" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT]([https://www.youtube.com/shorts/O7DMB5SOY10)/0.jpg)](https://www.youtube.com/shorts/O7DMB5SOY10 "Unity Snake Game")
 
    安裝及同步完成後,回到網頁上,可以看一下是否已有手機的專屬地址
 
